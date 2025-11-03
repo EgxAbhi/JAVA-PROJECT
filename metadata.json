@@ -1,0 +1,5 @@
+{
+  "name": "JAVA PROJECT",
+  "description": "An interactive online quiz application that allows teachers to create quizzes with AI-powered question generation and students to take them, receiving instant feedback and results. Features role-based access, timed quizzes, and performance tracking.",
+  "requestFramePermissions": []
+}
